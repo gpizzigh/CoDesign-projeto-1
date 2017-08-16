@@ -1,0 +1,28 @@
+DesSof:
+	Leitor e padronização de nomes
+	Inspermon
+	Projeto final (jogo)
+
+GDE:
+	Apresentação de case
+	Mini artigo cientifico
+
+Instrumed:
+	Distribuicao de petroleo
+	Sistema de aquecimento de chuveiro
+	Mini estacao meteorologica
+
+ModSim:
+	Modelagem de vieiras, arraias, tubaroes
+	Modelagem famacocinetica/termodinamica
+	Modelagem 3
+
+NatDes:
+	Brinquedo bio-inspirado
+
+CD:
+	Estudo de dados da PNAD
+
+CoDesign:
+	Arquitetura de informação
+
