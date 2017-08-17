@@ -24,5 +24,6 @@ CD:
 	Estudo de dados da PNAD - comp
 
 CoDesign:
-	Arquitetura de informação  - comp
+	Montagem de portifólio on-line  - comp
 
+	
